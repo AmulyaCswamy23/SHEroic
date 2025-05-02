@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 import requests
 
 # Load environment variables
-load_dotenv()
+load_dotenv("cred.env")
 
 # MongoDB connection
 MONGO_URI = os.getenv("MONGO_URI")
