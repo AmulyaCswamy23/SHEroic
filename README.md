@@ -13,7 +13,7 @@ SHEroic is a women-centric safety and empowerment platform built with Streamlit.
 
 🏢 For Organizations:
 - 🧾 **View Complaints**: Access and respond to public complaints submitted by users.
-- 💬 **Respond to Users** *(in progress)*
+- 💬 **Respond to Users** : Have a 1-1 chat with them about the complaints
 
 ---
 
